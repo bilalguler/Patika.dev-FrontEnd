@@ -1,0 +1,15 @@
+body{
+    margin: 8px;
+}
+#google-logo {
+    text-align: center;
+}
+#table {
+    text-align: center;
+    width: 90%;
+    margin: 0 5% 0 5%;
+}
+#s-line {
+    display: flex;
+    justify-content: space-between;
+}
