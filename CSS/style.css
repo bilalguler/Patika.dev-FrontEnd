@@ -1,0 +1,94 @@
+body, html {
+    background-color: #eae0d8;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+#header {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    position: fixed;
+    background-color: #FFF5EE50;
+}
+#BGLogo {
+    width: 30%;
+    text-align: center;
+    padding: 0;
+}
+#logo {
+    width: 20%;
+    padding: 5px;
+}
+#menu {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+.menu-item {
+    display: inline;
+    font-size: 1.5rem;
+    padding: 0 15px 0 15px;
+}
+.menu-yonlendirme {
+    color: black;
+}
+.menu-yonlendirme:hover {
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+}
+.bg-slider {
+    background-image:url("https://www.thedrive.com/uploads/2022/10/04/IMG_1297.jpg?auto=webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /*overflow: hidden;*/
+}
+.products-line {
+    margin: 30px 0 20px 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.products {
+    margin: 0;
+    padding: 10px;
+    width: 30%;
+    text-align: center;
+    border: 2px solid #b0a194;
+}
+#hakkimizdaParagraf {
+    background-color: rgba(176, 161, 148, 0.4);
+    width: 70%;
+    text-align: center;
+    margin: 3% 15%;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: 550;
+}
+#iletisim-kutusu {
+    color: #2a2626;
+    font-weight: 600;
+    background-color: rgba(176, 161, 148, 0.4);
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 3% 10%;
+}
+#iletisim-photo {
+    width: 30%;
+    margin: 3% 10% 3% 0;
+}
+footer {
+    margin: 20px 0 0 0;
+    padding: 0;
+    background-color: #b0a194;
+    width: 100%;
+}
+.footer-text {
+    text-align: center;
+    padding: 15px 0;
+    margin: 0
+}
