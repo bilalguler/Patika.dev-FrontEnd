@@ -1,9 +1,9 @@
-## CSS Ödev2
+## CSS Ödev3
 
 * Yaptığım ödevin sayfası bu şekilde gözükmektedir.
 
 
-* ![anasayfa](img/001%20-%20Google%201998%20-%20localhost.png)
+* ![anasayfa](img/001%20-%20Google%20-%20localhost.png)
 
 
 * [**LinkedIn Profil Linkim**](https://www.linkedin.com/in/bilal-guler/)
