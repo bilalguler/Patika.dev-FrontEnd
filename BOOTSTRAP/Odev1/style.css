@@ -1,0 +1,40 @@
+body {
+    background-color: #E9ECEF;
+}
+.area-bg {
+    background-color: #cad3d8;
+}
+.header-bg {
+    background-color: #082b37;
+}
+.header-text {
+    color: #f18383;
+}
+.header-text:hover {
+    color: #a41e1e;
+}
+.list-group-item {
+    background-color: #082b37;
+    border: none;
+}
+.a-text {
+    color: #F2F2F2;
+    text-decoration: none;
+}
+.a-text:hover {
+    color: #d0c5c5;
+}
+.active {
+    color: red;
+}
+.card-bg {
+    background-color: #E9ECEF;
+}
+.card-title-t {
+    color: #bb25de;
+    font-weight: 150;
+}
+.card-body-title-t {
+    color: #B9921F;
+    font-weight: 600;
+}
